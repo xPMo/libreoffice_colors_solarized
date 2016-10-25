@@ -1,0 +1,2 @@
+# libreoffice_colors_solarized
+Solarized Colorpalete for LibreOffice
