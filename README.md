@@ -8,3 +8,5 @@ Solarized Colorpalete for LibreOffice
 4. Choose "solarized.soc" file
 5. OK
 6. Have fun!
+
+![preview](./preview.png)
