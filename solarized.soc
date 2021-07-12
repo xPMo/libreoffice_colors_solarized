@@ -16,4 +16,8 @@
   <draw:color draw:name="blue" draw:color="#268bd2"/>
   <draw:color draw:name="cyan" draw:color="#2aa198"/>
   <draw:color draw:name="green" draw:color="#859900"/>
+  <draw:color draw:name="light yellow" draw:color="#cccc00"/>
+  <draw:color draw:name="light blue" draw:color="#2c98e4"/>
+  <draw:color draw:name="light cyan" draw:color="#30b8b0"/>
+  <draw:color draw:name="light green" draw:color="#85c000"/>
 </ooo:color-table>
